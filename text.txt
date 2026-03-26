@@ -2,3 +2,4 @@ Hello, this was just a trial.
 Editing to check!!
 
 Conflict creation......
+dont add git pull
